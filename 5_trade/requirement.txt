@@ -1,0 +1,20 @@
+# --- 데이터 핸들링 ---
+pandas
+numpy
+
+# --- API 요청 ---
+requests
+
+# --- 업비트 & 거래 ---
+pyupbit
+
+# --- 기술적 분석 지표 ---
+ta
+
+# --- 강화학습 (RL) ---
+stable-baselines3[extra]
+sb3-contrib
+torch
+
+# --- 텔레그램 알림 ---
+python-telegram-bot
