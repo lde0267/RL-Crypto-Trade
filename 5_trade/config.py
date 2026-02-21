@@ -56,8 +56,8 @@ PROFIT_LOCK_TRAILING_PERCENT_1ST = 0.5 # 수익 보호 Trailing 폭
 MAX_POSITIONS = 1
 
 # --- RL 모델 설정 ---
-RL_MODEL_PATH = "1_model/final_model.zip"
-RL_STATS_PATH = "1_model/obs_stats_btc.pkl"
+RL_MODEL_PATH = "1_model/final_model_rule.zip"
+RL_STATS_PATH = "1_model/obs_stats_btc_rule.pkl"
 RL_WINDOW_SIZE = 10 
 INITIAL_BALANCE = 300000.0 # ❗️ [필수] 훈련 시 사용한 self.initial_balance 값
 OBS_COLS = [
