@@ -4,13 +4,10 @@ import os
 """
 프로젝트의 모든 설정값을 관리하는 파일입니다.
 """
-# --- API Keys for my dorm---
-# flALAWxxGA8kjgvqMIExtk5PoHkxbc11T55WiyFR /// access
-# 8cQH2cFbf8eYjE5uP42MiX9SbBdoW0PQO8CJIuQw /// secret
 
 # --- API Keys (실제 투자 시 사용) ---
-UPBIT_ACCESS_KEY = "EfFN67T9DQykLNCmgLFi18stzPfJPOwmEh6QKEFy"
-UPBIT_SECRET_KEY = "X85xogyQzkEoe8VRbGjivL5cIgcKZtvt0umLGgud"
+UPBIT_ACCESS_KEY = "Your Upbit Access Key"
+UPBIT_SECRET_KEY = "Your Upbit Secret Key"
 
 # --- 코인 선별 조건 파라미터 (예시) ---
 MIN_VOLUME_KRW = 5_000_000_000
